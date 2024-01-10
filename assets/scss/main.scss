@@ -1,0 +1,21 @@
+$primary: #f83600;
+$secondary : #fe8c00;
+
+ 
+
+@import '../../node_modules/bootstrap-5.3.2/scss/bootstrap.scss';
+@import './component/mixins';
+@import './component/button.scss';
+@import './component/heading-line';
+@import './fonts';
+@import './navbar';
+@import './intro.scss';
+@import './comments'; 
+@import './portfolio'; 
+@import './FAQ.scss'; 
+@import './footer'; 
+
+
+
+
+

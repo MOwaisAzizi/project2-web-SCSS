@@ -1,0 +1,26 @@
+.box{
+
+    position: relative;
+    overflow: hidden;
+
+    img{
+        transition: all 1s;
+    }
+    .info{
+        position: absolute;
+        background-color: rgba($primary,0.6);
+        opacity: 0;
+        transition: 1s;
+
+    }
+    &:hover{
+        img{
+            transform: scale(1.1);
+            transition: all 1s;
+        }
+        .info{
+        opacity: 1;
+        transition: 1s;
+        } 
+    }
+}

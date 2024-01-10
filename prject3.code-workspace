@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../prject3"
+		},
+		{
+			"path": "../progect1/icons"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "prject3"
+	}
+}
